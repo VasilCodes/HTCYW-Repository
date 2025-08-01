@@ -1,2 +1,3 @@
-# HTCYW-Repository
-A beginner-friendly collection of HTML, CSS, and JavaScript code from my YouTube series on web development. Each folder contains source files for building and styling your first website, step-by-step. Perfect for learning and practice.
+# How to code your website series - File Repository
+#📘 About This Repository
+This repository contains the complete source code from my YouTube series on building your first website. You'll find step-by-step examples using HTML5, CSS, and soon JavaScript, perfect for beginners who want to learn modern web development by doing.
